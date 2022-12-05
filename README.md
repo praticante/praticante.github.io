@@ -1,4 +1,4 @@
-# 🌎 praticante.github.io
+# 🌎 Praticante
 
 Public website
 
